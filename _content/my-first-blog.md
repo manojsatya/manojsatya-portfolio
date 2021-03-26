@@ -6,39 +6,20 @@ tags:
   - css
 ---
 
-# [Phrase](https://phrase.com/) challenge
+# Heading 1
 
-## Task: Code simple project editor using Phrase REST API!
+## Heading 2
 
-### The app interacts with [Phrase Api](https://developers.phrase.com/api/). The app requires Phrase authorisation. Please login using phrase credentials. To create a phrase account please visit [Phrase App](https://app.phrase.com/account/login).
+### Heading 3
 
 ## Tech stack
 
-- Backend -
-  [Phrase API](https://developers.phrase.com/api/)
-- Frontend framework -
-  [Vue.js 2](https://vuejs.org/)
-- Form
-  validation -[Vee validate](https://www.npmjs.com/package/vee-validate)
-- Routing -[Vue Router](https://router.vuejs.org/)
-- State management -
-  [Vuex](https://vuex.vuejs.org/)
-- Date time
-  formatting -[Momentjs](https://momentjs.com/)
-- Promise based fetching -
-  [Axios](https://github.com/axios/axios)
-- Testing -
-  [Vue testing library](https://testing-library.com/docs/vue-testing-library/intro/)
-
 ## App features
 
-- Phrase authorisation (requires phrase account to
-  login in)
-- Pagination of projects (Currently set to 3
-  projects per page)
-- List of projects with project title, last
-  updated
-- Editable project titles
+- one
+- two
+- three
+- four
 
 ## Project setup
 
