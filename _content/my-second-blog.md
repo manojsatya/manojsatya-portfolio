@@ -6,6 +6,6 @@ tags:
   - css
 ---
 
-Welcome to first test blog. Here I am gonna add
+Welcome to second test blog. Here I am gonna add
 all my blogs. Welcome to first test blog. Here I
 am gonna add all my blogs.
