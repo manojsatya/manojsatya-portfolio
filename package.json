@@ -9,7 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@tailwindcss/typography": "^0.4.0",
     "gray-matter": "^4.0.2",
-    "next": "^10.0.7",
+    "next": "^11.1.0",
     "next-images": "^1.7.0",
     "prismjs": "^1.23.0",
     "prop-types": "^15.7.2",
